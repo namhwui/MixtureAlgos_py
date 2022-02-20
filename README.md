@@ -1,2 +1,2 @@
-# Mean-shift algorithms in python
-Implementing various mean-shift algorithms in python.
+# Various finite mixture-related algorithms in python
+
